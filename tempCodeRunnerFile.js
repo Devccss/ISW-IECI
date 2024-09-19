@@ -1,0 +1,1 @@
+onsole.log(`Prom : ${sumNums(b)} / ${b.length}`)
